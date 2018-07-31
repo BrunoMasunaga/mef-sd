@@ -1,6 +1,6 @@
 -- Nome: Bruno Tatsuya Masunaga Santos
 -- Turma: A2 - Sistemas Digitais 2018.2
--- Reconhecedor de Sequencia 1011 utilizando MEF de Moore
+-- Chave de Carro Segura 1011 utilizando MEF de Moore
 
 library ieee;
 use ieee.std_logic_1164.all;

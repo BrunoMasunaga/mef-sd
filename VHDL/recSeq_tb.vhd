@@ -1,6 +1,6 @@
 -- Nome: Bruno Tatsuya Masunaga Santos
 -- Turma: A2 - Sistemas Digitais 2018.2
--- Reconhecedor de Sequencia 1011 utilizando MEF de Moore (TestBench)
+-- Chave de Carro Segura 1011 utilizando MEF de Moore (TestBench)
 
 library ieee;
 use ieee.std_logic_1164.all;
@@ -16,7 +16,7 @@ architecture behavior_tb of recSeq_tb is
    uut: entity work.recSeq(behavior)
    port map(CLOCK => t_CLOCK, RESET => t_RESET, X => t_X, S => t_S);
 
--- Casos de teste.
+-- Casos de teste
    test_cases: process
    begin
       -- ciclo do clock 1 (A->B)
