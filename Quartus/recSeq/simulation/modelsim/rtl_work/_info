@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\recSeq\simulation\modelsim
+Erecseq
+Z1 w1532971255
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\recSeq\simulation\modelsim
+Z5 8C:/recSeq/recSeq.vhd
+Z6 FC:/recSeq/recSeq.vhd
+l0
+L8
+VQ@>VC0JM8YdW?CB@hX8f20
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1532974840.933000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/recSeq/recSeq.vhd|
+Z10 !s107 C:/recSeq/recSeq.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 <`S_<5;BAnMKBN5`mnCbM3
+!i10b 1
+Abehavior
+R2
+R3
+DEx4 work 6 recseq 0 22 Q@>VC0JM8YdW?CB@hX8f20
+l16
+L13
+VjYf`V2S`m9=D]zIJGz]ia1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 MnH1XFdiCB?b?MkM?VZ?=1
+!i10b 1
+Erecseq_vhd_tst
+Z13 w1532974467
+R2
+R3
+R4
+Z14 8C:/recSeq/simulation/modelsim/recSeq.vht
+Z15 FC:/recSeq/simulation/modelsim/recSeq.vht
+l0
+L30
+V8V9a:cnFm^Ya;Lbn;5eiW3
+!s100 6R1ZegmJ1:@Qen9?ANh[43
+R7
+32
+!i10b 1
+Z16 !s108 1532974987.557000
+Z17 !s90 -reportprogress|300|-work|work|C:/recSeq/simulation/modelsim/recSeq.vht|
+Z18 !s107 C:/recSeq/simulation/modelsim/recSeq.vht|
+Z19 o-work work -O0
+R12
+Arecseq_arch
+R2
+R3
+Z20 DEx4 work 14 recseq_vhd_tst 0 22 8V9a:cnFm^Ya;Lbn;5eiW3
+l47
+L32
+Z21 Vh:_bPnjiGW7@@^3jTicPI0
+Z22 !s100 Jk6YdWWH7z:aCMK?1lT1=1
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R19
+R12
